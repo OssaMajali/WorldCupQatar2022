@@ -2,5 +2,3 @@
 ![world-cup](images/fifa22.jpg)
 The complete notebook can be accessed [here](https://nbviewer.org/github/OssaMajali/WorldCupQatar2022/blob/main/FIFA22.ipynb).
 
-## Dataset
-[FIFA22](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)
